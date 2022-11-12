@@ -7,4 +7,7 @@ public static void main(String [] args )
    System.out.println("Welcome to git bash":);
 }
 
+public void m2() {
+  ///
+
 }
